@@ -1,0 +1,5 @@
+# Python dependencias
+# (none required)
+
+# System requirements (manual install)
+nmap
